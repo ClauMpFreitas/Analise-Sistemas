@@ -1,0 +1,12 @@
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.exe.config
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.pdb
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.exe
+C:\Users\Diogo Freitas\Documents\SharpDevelop Projects\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.pdb
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.exe.config
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.exe
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\bin\Debug\ExerciciosAnaliseSistemas.pdb
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.csprojResolveAssemblyReference.cache
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.exe
+C:\Users\Diogo Freitas\Downloads\ExerciciosAnaliseSistemas\ExerciciosAnaliseSistemas\obj\Debug\ExerciciosAnaliseSistemas.pdb
